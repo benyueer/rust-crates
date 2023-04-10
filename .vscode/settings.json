@@ -1,0 +1,7 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./cclap/Cargo.toml",
+    "./cclap/Cargo.toml"
+  ],
+  "rust-analyzer.showUnlinkedFileNotification": false
+}
