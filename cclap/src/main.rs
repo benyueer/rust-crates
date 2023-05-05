@@ -1,6 +1,6 @@
-mod simple;
-mod command;
 mod cmacro;
+mod command;
+mod simple;
 
 fn main() {
     // simple::main();
